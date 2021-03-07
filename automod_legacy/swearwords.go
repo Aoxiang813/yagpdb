@@ -75,4 +75,10 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
+	"Gilipollas":  true,
+	"Puto":        true,
+	"Hijo de puta":true,
+	"Chupame la polla": true,
+	"Subnormal":   true,
 }
+
